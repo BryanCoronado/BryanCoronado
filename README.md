@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/NKocdH3">
+<img src="[https://imgur.com/a/NKocdH3](https://i.imgur.com/cQMoV9B.jpeg)">
 
 
 Sobre mí
