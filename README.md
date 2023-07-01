@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
 </div>
-<img src="https://ibb.co/DLwcpYy">
+<img src="https://i.ibb.co/TrPjL1S/LOGO.png">
 
 Sobre mí <br>
 ⭐ Estrella en GitHub ⭐<br>
