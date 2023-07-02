@@ -18,10 +18,7 @@ Sobre mí <br>
 <br>
 ## Mis redes:
 <p align="left">
-<a href="https://twitter.com/xAgustin93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdfsd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/agustin93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdfsadf" height="30" width="40" /></a>
-<a href="https://instagram.com/xAgustin93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadfsdf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/AgustinNavarroGaldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asdfsadfd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bryan-smith-coronado-santi-387024233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdfsadf" height="30" width="40" /></a>
 <a href="https://discord.com/channels/692536948132282371/764177599979061278/764186152311062569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdfsafds" height="30" width="40" /></a>
 </p>
 
