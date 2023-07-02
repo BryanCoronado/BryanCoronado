@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue)
 </div>
 <img src="https://i.ibb.co/TrPjL1S/LOGO.png">
 
