@@ -5,8 +5,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 </div>
 <img src="https://i.ibb.co/TrPjL1S/LOGO.png">
 
