@@ -1,16 +1,16 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
   <style>
-    .l {
+    * {
       transition: transform 0.3s;
     }
-    .l:hover {
+    *:hover {
       transform: scale(1.1);
     }
 </style>
   
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)transition: transform 0.3s&nbsp;
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![html](https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
   ![css](https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
