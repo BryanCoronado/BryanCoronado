@@ -1,13 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
-<style>
-    * {
-      transition: transform 0.3s;
-    }
-    *:hover {
-      transform: scale(1.1);
-    }
-</style>
+
+
   
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
