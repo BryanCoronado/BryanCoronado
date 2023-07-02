@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
-  <style>
+<style>
     * {
       transition: transform 0.3s;
     }
