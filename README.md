@@ -1,18 +1,24 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
+<style>
+    .language-badge {
+      transition: transform 0.3s;
+    }
+    .language-badge:hover {
+      transform: scale(1.1);
+    }
+</style>
   
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![html](https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![css](https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
-![sass](https://img.shields.io/badge/sass-ED8B00?style=for-the-badge&logo=sass&logoColor=red)&nbsp;
-
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=yellow
-)&nbsp;
-![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue)
-</div>
+<div class="language-badge">
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![html](https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+  ![css](https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
+  ![sass](https://img.shields.io/badge/sass-ED8B00?style=for-the-badge&logo=sass&logoColor=red)&nbsp;
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+  ![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue)
+<div/>
 
 <img src="https://i.ibb.co/TrPjL1S/LOGO.png">
 
