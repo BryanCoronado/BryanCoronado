@@ -1,13 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
-<style>
-    .language-badge {
-      transition: transform 0.3s;
-    }
-    .language-badge:hover {
-      transform: scale(1.1);
-    }
-</style>
+
   
 <div class="language-badge">
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
