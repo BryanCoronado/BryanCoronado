@@ -15,7 +15,7 @@
 
 <img src="https://i.ibb.co/TrPjL1S/LOGO.png">
 
-Sobre mí <br>
+Sobre mí 
 ⭐ Estrella en GitHub ⭐<br>
 📲 Desarrollador de aplicaciones móviles<br>
 💻 Desarrollador Front-End Junior<br>
