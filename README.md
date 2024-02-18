@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://bryancoronado.github.io/MiPortafolio/">Bryan Coronado</a> 👋</h1>
 
-
-  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HOLA!+👋;+YO+SOY+BRYAN+CORONADO!;" />
+</h1>
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -15,9 +15,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HOLA!+👋;+YO+SOT+BRYAN+CORONADO!;" />
-</h1>
+
 
 <h3 align="center">A passionate software developer from Peru 🇨🇦</h3>
 
